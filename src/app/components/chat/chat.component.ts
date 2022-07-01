@@ -44,7 +44,7 @@ export class ChatComponent implements OnInit {
     }
 
     const mensajeChat: MensajeChat = {
-      usuario: 'alejandro',
+      usuario: 'Macarena',
       mensaje,
     }
 
