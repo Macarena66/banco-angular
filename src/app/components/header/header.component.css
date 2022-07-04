@@ -32,6 +32,11 @@
   font-family: 'Times New Roman', Times, serif;
 }
 
+.main-header__usuario {
+  color: red;
+  padding-left: 0.5rem;
+}
+
 .main-nav {
   flex-grow: 0;
 }
@@ -76,5 +81,3 @@
 .main-nav__item_mensajes::before {
   content: "✉";
 }
-
-
